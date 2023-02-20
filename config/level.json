@@ -1,0 +1,10 @@
+{
+    "title": "Nom du niveau",
+    "creator": "John Doe",
+    "difficulty": 5,
+    "blocks": [
+        {"type": "A"},
+        {"type": "B"},
+        {"type": "C"}
+    ]
+}
